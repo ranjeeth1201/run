@@ -1,10 +1,10 @@
 zz=input()
 if(zz>0):
-print("Positive")
+  print("Positive")
 elif(zz==0):
-print("Zero")
+  print("Zero")
 else:
-print("Negative")
+  print("Negative")
 
 
 
